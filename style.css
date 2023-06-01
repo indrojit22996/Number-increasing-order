@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+body {
+  background-color: #74c0fc;
+}
+.insta-num,
+.fb-num,
+.youtube-num {
+  text-align: center;
+  font-size: 48px;
+  margin-top: 40vh;
+}
+.insta-text,
+.fb-text,
+.youtube-text {
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 24px;
+  color: #ffffff;
+}
